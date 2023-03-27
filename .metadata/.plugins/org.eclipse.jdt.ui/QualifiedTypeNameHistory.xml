@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="br.com.fiap.modelo1.Aluno"/>
+    <fullyQualifiedTypeName name="br.com.fiap.modelo1.Curso"/>
+    <fullyQualifiedTypeName name="fiapBank2.Cliente"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="SistemaCaixaEletronico.ContaCorrente"/>
+    <fullyQualifiedTypeName name="br.com.fiap.modelo.Monitor"/>
+    <fullyQualifiedTypeName name="fiapBank2.ContaCorrente"/>
+    <fullyQualifiedTypeName name="fiapBank2.Endereco"/>
+    <fullyQualifiedTypeName name="dudriguesTeste.Linda"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>
